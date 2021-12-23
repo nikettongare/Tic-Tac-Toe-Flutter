@@ -3,7 +3,6 @@ import 'dart:io';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:unpaid/controllers/ad_manager.dart';
 import '../../controllers/game_controller.dart';
 
 class MenuDialog {

@@ -4,7 +4,7 @@ import 'dart:math';
 import 'package:audioplayers/audioplayers.dart';
 import 'package:flutter/foundation.dart';
 import 'package:get/get.dart';
-import 'package:unpaid/controllers/ad_manager.dart';
+import '../controllers/ad_manager.dart';
 import '../models/game_buttons.dart';
 import '../views/dialogs/reset_board_dialog.dart';
 

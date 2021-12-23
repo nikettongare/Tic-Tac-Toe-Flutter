@@ -8,6 +8,7 @@ import 'views/screens/game_screen.dart';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
+
   if (!kIsWeb) {
     if (Platform.isAndroid || Platform.isIOS) {
       await MobileAds.instance.initialize().then((InitializationStatus status) {
