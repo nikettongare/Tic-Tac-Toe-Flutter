@@ -33,11 +33,13 @@
 ![b8](https://user-images.githubusercontent.com/61305713/147216406-c7d51fb3-6e56-4cbd-b205-b3d73fe6c3b1.png)
 
 
-### If you have to develop apps with flutter then checkout following link, i provide app development service in flexible prices, Fell free to ask anything.
+### If you have to develop apps with flutter then checkout following link, i provide app development service with flexible prices, Fell free to ask anything.
 ### Link - https://www.fiverr.com/share/ll3Rab
 
-## If you like the repo then make sure to STAR it , Thanks For visiting.
+## If you like the repo then make sure to STAR it.
 
 ### Fell Free to Contribute
 
+# Thanks For visiting
 
+# Made In INDIA
