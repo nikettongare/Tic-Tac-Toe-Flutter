@@ -1,5 +1,11 @@
 # The popular Tic Tac Toe (X-O) Game using Flutter and Dart
 
+## To Download Ads Free Version (Paid) :
+# https://play.google.com/store/apps/details?id=com.iamniket.tictactoe.paid
+
+## To Download Free Version :
+# https://play.google.com/store/apps/details?id=com.iamniket.tictactoe
+
 
 ![poster](https://user-images.githubusercontent.com/61305713/147216492-c5c0bd3c-9bd6-49e7-a133-b4bec5805bb3.png)
 
@@ -33,13 +39,15 @@
 ![b8](https://user-images.githubusercontent.com/61305713/147216406-c7d51fb3-6e56-4cbd-b205-b3d73fe6c3b1.png)
 
 
-### If you have to develop apps with flutter then checkout following link, i provide app development service with flexible prices, Fell free to ask anything.
+### If you have to develop apps with flutter then checkout following link, i provide app development service with flexible prices, Feel free to ask anything.
 ### Link - https://www.fiverr.com/share/ll3Rab
 
 ## If you like the repo then make sure to STAR it.
 
-### Fell Free to Contribute
+### Feel Free to Contribute
 
 # Thanks For visiting
 
 # Made In INDIA
+
+### If you any queries feel free to mail me at nikettongaren24@gmail.com
